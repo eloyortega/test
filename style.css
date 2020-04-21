@@ -1,0 +1,14 @@
+			body{
+				background:#ddd;
+			}
+			h1{
+				font-family: impact ;
+				color : #fff ;
+				font-size: 40px ;
+				font-weight: normal ;
+				letter-spacing: 2px ;
+				text-align:center;
+			}
+			img{
+				height:150px;
+			}
